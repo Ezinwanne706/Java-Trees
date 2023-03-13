@@ -39,6 +39,6 @@ public class BinaryTree {
         
     }
 
-// Above is an example of a binary tree pre-order
+// Above is an example of a binary tree recursive pre-order
     
 
